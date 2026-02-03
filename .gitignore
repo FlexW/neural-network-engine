@@ -1,0 +1,13 @@
+.cache
+.out
+compile_commands.json
+*.pdb
+base_test_dir
+.vs
+base/x64
+x64
+perf.data
+perf.data.old
+.claude/settings.local.json
+.venv
+__pycache__/
